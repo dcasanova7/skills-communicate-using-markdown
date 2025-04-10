@@ -10,3 +10,8 @@
 `$variable = 'This is a code in one line'`
 
 ``` $variables = 5; if ($variables == 5) { echo 'Win'; } ```
+
+- [X] Add Header
+- [X] Add image
+- [X] Add code
+- [] Add code
