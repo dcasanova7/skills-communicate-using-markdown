@@ -6,3 +6,7 @@
 ###### Header 6
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+`$variable = 'This is a code in one line'`
+
+``` $variables = 5; if ($variables == 5) { echo 'Win'; } ```
